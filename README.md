@@ -14,7 +14,7 @@ The documentation is: https://developers.thecatapi.com/view-account/ylX4blBYT9Fa
 - To fetch categories list: https://api.thecatapi.com/v1/categories
 - To get specific cat: https://api.thecatapi.com/v1/images/<ID>
 
-User must be able to filter cats by BREED and CATEGORY.
+User must be able to filter cats by CATEGORY.
 
 There's a figma link with a design example, feel free to follow it or create a new one: [FIGMA](https://www.figma.com/design/O59cTYodflm2C6VozQRV9v/Untitled?node-id=0-1&t=r8jUUjbanMo3Jrf5-1)
 
