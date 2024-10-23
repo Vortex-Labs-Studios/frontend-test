@@ -10,7 +10,6 @@ Create an infinite scroll image list.
 The documentation is: https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t
 
 - To fetch images list: https://api.thecatapi.com/v1/images/search
-- To fetch breeds list: https://api.thecatapi.com/v1/breeds
 - To fetch categories list: https://api.thecatapi.com/v1/categories
 - To get specific cat: https://api.thecatapi.com/v1/images/<ID>
 
